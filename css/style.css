@@ -13,7 +13,7 @@
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 header {
-  background-image: url(/images/bg_001.jpg);
+  background-image: url(../images/bg_001.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
